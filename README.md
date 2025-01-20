@@ -1,5 +1,8 @@
 # Copy-Move Forgery Detection Using SIFT, DBSCAN, and DeepLabV3
 
+This project is made for the course project of EE475, Fall 2024 semester. 
+Project done by Serkan Hamdi Güğül (repo owner) and GÖksun Güney Küçük. Both had done equal contribution.
+
 ## Project Overview
 
 With the widespread use of digital images in communication, social media, and forensic applications, ensuring the integrity and authenticity of visual content is critical. Copy-move forgery is a common manipulation technique where image regions are copied and pasted within the same image. This project explores a robust approach to detect such forgeries using:
