@@ -19,6 +19,7 @@ With the widespread use of digital images in communication, social media, and fo
 - **Dataset**: The CoMoFoD (Image Database for Copy-Move Forgery Detection) dataset is used for evaluation.
 
 ## Methodology
+![Algorithm](algorithm-schema.png)
 
 ### 1. Preprocessing
 - Convert the input image to grayscale as SIFT operates on intensity values rather than color.
