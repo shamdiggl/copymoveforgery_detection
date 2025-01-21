@@ -1,6 +1,6 @@
 # Copy-Move Forgery Detection Using SIFT, DBSCAN, and DeepLabV3
 
-This project is made for the course project of EE475, Fall 2024 semester. 
+This project is made for the course project of EE475, Fall 2024 semester. \
 Project done by Serkan Hamdi Güğül (repo owner) and GÖksun Güney Küçük. Both had done equal contribution.
 
 ## Project Overview
@@ -47,37 +47,37 @@ The algorithm was applied to 200 images from the CoMoFoD dataset. Examples of bo
 ## References
 [1] D. G. Lowe, ”Distinctive image features from scale-invariant keypoints,”
 International Journal of Computer Vision, vol. 60, pp. 91–110, 2004,
-Springer.
+Springer. \
 [2] H. Bay, ”Surf: Speeded up robust features,” Computer Vision—ECCV,
-2006.
+2006.\
 [3] J. Ouyang et al., ”Copy-move forgery detection based on deep learning,”
-10th Int. Congress on Image and Signal Processing, 2017.
+10th Int. Congress on Image and Signal Processing, 2017.\
 [4] M. Ester, H.-P. Kriegel, J. Sander, and X. Xu, ”A density-based algorithm
 for discovering clusters in large spatial databases with noise,” in Proceed-
 ings of the International Conference on Knowledge Discovery and Data
-Mining (KDD), vol. 96, no. 34, pp. 226–231, 1996.
+Mining (KDD), vol. 96, no. 34, pp. 226–231, 1996.\
 [5] L.-C. Chen, ”Rethinking atrous convolution for semantic image segmen-
-tation,” arXiv preprint arXiv:1706.05587, 2017.
+tation,” arXiv preprint arXiv:1706.05587, 2017.\
 [6] J.-L. Zhong and C.-M. Pun, ”An end-to-end dense-inceptionnet for
 image copy-move forgery detection,” IEEE Transactions on Information
-Forensics and Security, vol. 15, pp. 2134–2146, 2019.
+Forensics and Security, vol. 15, pp. 2134–2146, 2019.\
 [7] V. K. Singh, A. Singh, and S. Jain, ”Zernike moments-based rotation
 invariant property for fast copy-rotate-paste image forgery detection,”
 International Journal of Computer Applications, vol. 89, no. 16, pp. 26–
-32, 2014.
+32, 2014.\
 [8] N. Jadhav, S. Kumar, and H. Singh, ”DCT-based methods for robust copy-
 move forgery detection,” International Journal of Advanced Research in
 Computer Science and Management Studies, vol. 4, no. 2, pp. 201–203,
-2016.
+2016.\
 [9] G. Muhammad and S. Kumar, ”Adaptive segmentation for efficient
 forgery detection using histogram-based techniques,” Journal of Image
-and Video Processing, 2016.
+and Video Processing, 2016.\
 [10] S. Roth and M. Black, ”Dense field estimation for identifying geometric
 transformations in forged images,” in Proceedings of the European
-Conference on Computer Vision (ECCV), 2008.
+Conference on Computer Vision (ECCV), 2008.\
 [11] J.-L. Zhong and C.-M. Pun, ”An end-to-end dense-inceptionnet for
 image copy-move forgery detection,” IEEE Transactions on Information
-Forensics and Security, vol. 15, pp. 2134–2146, 2019.
+Forensics and Security, vol. 15, pp. 2134–2146, 2019.\
 [12] A. Islam, X. Zhang, Y. Zhang, and Z. Liang, ”DOA-GAN: Dual-order
 attentive generative adversarial network for image copy-move forgery
 detection and localization,” in Proceedings of the IEEE/CVF Conference
